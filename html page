@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <body>
+    <main>
+      <h1>I WANT TO BELIEVE</h1>
+      <section>
+        <h2> Welcome to the UX Files</h2>
+      </section>
+      <section>
+        <p>Hello! I'm Cessali, and this page is all about my UX/UI, web dev, coding journey!</p>
+      </section>
+      <section>
+        <p>You can follow me on instagram <a href ="https://www.instagram.com/the_uxfiles/">here>!</a></p>
+      </section>
+    </main>
+  </body>
+</html>
